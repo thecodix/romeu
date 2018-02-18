@@ -1,10 +1,12 @@
 # Alfredo Romeu
 
-Software developer, future Pythonista
+Snakes charmer
 
 ## Online profiles
 
 __Stack overflow__: [a-romeu](http://stackoverflow.com/users/2353808/a-romeu?tab=profile)
+
+__Code Review__: [a-romeu](https://codereview.stackexchange.com/users/99376/a-romeu)
 
 __Codepen__: [thecodix](http://codepen.io/thecodix/)
 
